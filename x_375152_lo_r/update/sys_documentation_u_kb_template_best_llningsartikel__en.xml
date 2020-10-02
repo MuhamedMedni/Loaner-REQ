@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Loner" language="en" table="x_375152_lo_r_lr">
+    <sys_documentation element="" label="beställningsartikel " language="en" table="u_kb_template_best_llningsartikel">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Loner</label>
+            <label>beställningsartikel </label>
             <language>en</language>
-            <name>x_375152_lo_r_lr</name>
-            <plural>Loners</plural>
+            <name>u_kb_template_best_llningsartikel</name>
+            <plural>beställningsartikel s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-27 06:59:50</sys_created_on>
-            <sys_id>1ce577b62ff69010179158492799b6a3</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Loner</sys_name>
+            <sys_created_on>2020-08-27 07:56:12</sys_created_on>
+            <sys_id>c6c280cf2ff69010179158492799b63d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>beställningsartikel</sys_name>
             <sys_package display_value="Loaner Req" source="x_375152_lo_r">df15b3722f369010179158492799b68c</sys_package>
             <sys_policy/>
             <sys_scope display_value="Loaner Req">df15b3722f369010179158492799b68c</sys_scope>
-            <sys_update_name>sys_documentation_x_375152_lo_r_lr__en</sys_update_name>
+            <sys_update_name>sys_documentation_u_kb_template_best_llningsartikel__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-02 08:52:28</sys_updated_on>
+            <sys_updated_on>2020-08-27 07:56:12</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

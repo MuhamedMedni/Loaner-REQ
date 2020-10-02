@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Loner R" max_length="40" name="x_375152_lo_r_lr" type="collection"/>
+    <element extends="task" label="Loner" max_length="40" name="x_375152_lo_r_lr" sizeclass="0" type="collection"/>
 </database>

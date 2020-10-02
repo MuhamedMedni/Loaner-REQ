@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Knowledge Management Core" source="com.glideapp.knowledge">acf31aa6e1f1330078502406b6333329</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 07:56:12</sys_created_on>
+        <sys_id>0ec284cf2ff69010179158492799b670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Loaner Req" source="x_375152_lo_r">df15b3722f369010179158492799b68c</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 07:56:12</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

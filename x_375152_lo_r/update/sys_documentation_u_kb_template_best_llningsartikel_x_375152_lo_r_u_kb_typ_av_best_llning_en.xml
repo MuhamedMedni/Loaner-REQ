@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_375152_lo_r_u_kb_typ_av_best_llning" label="Typ av beställning" language="en" table="u_kb_template_best_llningsartikel">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_375152_lo_r_u_kb_typ_av_best_llning</element>
+            <help/>
+            <hint/>
+            <label>Typ av beställning</label>
+            <language>en</language>
+            <name>u_kb_template_best_llningsartikel</name>
+            <plural>Typ av beställnings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 07:58:29</sys_created_on>
+            <sys_id>e74348cf2ff69010179158492799b615</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Typ av beställning</sys_name>
+            <sys_package display_value="Loaner Req" source="x_375152_lo_r">df15b3722f369010179158492799b68c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Req">df15b3722f369010179158492799b68c</sys_scope>
+            <sys_update_name>sys_documentation_u_kb_template_best_llningsartikel_x_375152_lo_r_u_kb_typ_av_best_llning_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 07:58:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
